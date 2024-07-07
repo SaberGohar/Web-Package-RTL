@@ -122,4 +122,4 @@ Contribution are always welcome and recommended! Here is how:
 [GPL](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 
-<div align="center"> Developed With Love For Iranian's ! ❤️</div>
+<div align="center"> Developed With Love For Iranian's ! </div>
